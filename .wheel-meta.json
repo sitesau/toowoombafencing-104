@@ -1,0 +1,22 @@
+{
+  "wheel_id": 474,
+  "structure": "umbrella",
+  "slug": "toowoombafencing-104",
+  "project": "fencing-services-toowoomba-pros-and-cons-27a21a3142d51d27c7bfa6",
+  "parent_t1_ref": "toowoombafencing-151",
+  "node_role": "feeder",
+  "money_target": "toowoombafencing.au",
+  "primary_kw": "fencing services toowoomba pros and cons",
+  "intended_url": "https://sites-e470-2.web.app/fencing-services-toowoomba-pros-and-cons-27a21a3142d51d27c7bfa6/",
+  "tier": "T2",
+  "writeback_nonce": "ef280a95dbea24e8",
+  "links": [
+    {
+      "target_url": "http://fencing-services-toowoomba-d0903c5107f412ae6a42d1a990c6f00ccd03.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "fencing services toowoomba",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
